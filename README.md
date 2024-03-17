@@ -40,11 +40,3 @@ npm run dev
 ```
 
 Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to access the Short URL Generator App.
-
-## Additional Information
-
-Feel free to explore and customize the application further. You can add more features, improve the user interface, or enhance the functionality based on your requirements.
-
-![Screenshot](public/screenshot.png)
-
-Happy coding!
