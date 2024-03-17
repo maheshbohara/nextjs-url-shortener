@@ -4,7 +4,7 @@ import { getByShortUrl } from "@/lib/actions/shortUrl.actions";
 import { usePathname, redirect } from "next/navigation";
 import { useEffect, useState } from "react";
 
-const ShortUrl = () => {
+const shortUrl = () => {
   const [url, setUrl] = useState("");
   const [error, setError] = useState(false);
 
@@ -50,4 +50,4 @@ const ShortUrl = () => {
   );
 };
 
-export default ShortUrl;
+export default shortUrl;
